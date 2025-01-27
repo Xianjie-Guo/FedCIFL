@@ -3,7 +3,9 @@
 # Usage
 "FedCIFL.py" is the main function. <br>
 ----------------------------------------------
+```Python
 def FedCIFL(Xs_orig: list[np.ndarray], Ys: list[np.ndarray], delta: float = 0.01): <br>
+```
 * INPUT: <br>
 ```Python
 Xs_orig: a list of datasets on multiple clients (Only supports binary data).
