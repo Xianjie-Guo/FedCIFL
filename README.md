@@ -4,7 +4,7 @@
 "FedCIFL.py" is the main function. <br>
 ----------------------------------------------
 ```Python
-def FedCIFL(Xs_orig: list[np.ndarray], Ys: list[np.ndarray], delta: float = 0.01): <br>
+def FedCIFL(Xs_orig: list[np.ndarray], Ys: list[np.ndarray], delta: float = 0.01):
 ```
 * INPUT: <br>
 ```Python
