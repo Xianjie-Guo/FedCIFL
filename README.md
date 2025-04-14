@@ -1,4 +1,4 @@
-[Federated Causally Invariant Feature Learning](https://xianjie-guo.github.io/EnHome.html) <br>
+[Federated Causally Invariant Feature Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33866) <br>
 
 # Usage
 "FedCIFL.py" is the main function. <br>
